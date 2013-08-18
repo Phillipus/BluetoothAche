@@ -30,6 +30,7 @@
 		9B6A794F17C1643D00958317 /* db.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = db.png; sourceTree = "<group>"; };
 		9B6A795117C1643D00958317 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		9B6A795717C16A1600958317 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		9BA1F23417C18755001989A4 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		9BC3C15617C1555100EB59F9 /* BTAche.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BTAche.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BC3C15917C1555100EB59F9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9BC3C15B17C1555100EB59F9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -64,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				9B6A795717C16A1600958317 /* README.md */,
+				9BA1F23417C18755001989A4 /* screenshot.png */,
 				9BC3C18217C1567B00EB59F9 /* assets */,
 				9BC3C17617C1566E00EB59F9 /* src */,
 				9BC3C15817C1555100EB59F9 /* Frameworks */,

@@ -3,6 +3,8 @@
 
 A simple app for iPhone that very quickly turns Bluetooth on or off, rather than having to go through the Settings app. It demonstrates using one of Apple's private frameworks (BluetoothManager.framework).
 
+-> ![image](screenshot.png) <-
+
 Note the private methods declared in ViewController.m:
 
     @interface BluetoothManager : NSObject
