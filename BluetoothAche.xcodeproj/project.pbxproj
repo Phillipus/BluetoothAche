@@ -150,6 +150,11 @@
 			attributes = {
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "Dada Beatnik";
+				TargetAttributes = {
+					9BC3C15517C1555100EB59F9 = {
+						DevelopmentTeam = 375WT5T296;
+					};
+				};
 			};
 			buildConfigurationList = 9BC3C15117C1555100EB59F9 /* Build configuration list for PBXProject "BluetoothAche" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -268,6 +273,7 @@
 		9BC3C17417C1555100EB59F9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
@@ -285,6 +291,7 @@
 		9BC3C17517C1555100EB59F9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
