@@ -150,11 +150,6 @@
 			attributes = {
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "Dada Beatnik";
-				TargetAttributes = {
-					9BC3C15517C1555100EB59F9 = {
-						DevelopmentTeam = 375WT5T296;
-					};
-				};
 			};
 			buildConfigurationList = 9BC3C15117C1555100EB59F9 /* Build configuration list for PBXProject "BluetoothAche" */;
 			compatibilityVersion = "Xcode 3.2";
